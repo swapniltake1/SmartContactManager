@@ -23,3 +23,38 @@
 10. Spring Boot Starter Test: A dependency that includes testing frameworks and libraries for writing unit and integration tests in Spring Boot applications.
 
 These technologies enable you to build a robust and secure contact management application using Spring Boot, with data persistence, web functionality, and validation capabilities.
+
+# Project Screenshot
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/0a3ccfc6-2161-43d1-b6be-3cf9bfa26f1d)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/c0ceb0ab-dd18-4cec-9573-1fd9d0b6f3a4)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/49a289ac-875d-4c29-bcfa-f4ab8ecc7174)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/52997334-65d5-4fdb-913b-dc3dacc539e2)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/ac8f042e-6473-4a41-bc19-754afaec79d2)
+
+
+# Project Structure
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/a50c7fdb-d794-419c-a17b-96896359f75c)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/1c5d0c70-c6cc-4af2-8dce-78370c8bf326)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/0a5f6ccc-3f10-45f4-aa91-9426b4fcc34b)
+
+# API Created
+
+
+
+
+
+
