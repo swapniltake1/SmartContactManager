@@ -1,4 +1,5 @@
-# Smart Contact Manager : A Spring Boot project that securely stores and manages contacts online. Access your contacts from anywhere, anytime. Simplify your communication and stay connected effortlessly.
+# Smart Contact Manager 
+A Spring Boot project that securely stores and manages contacts online. Access your contacts from anywhere, anytime. Simplify your communication and stay connected effortlessly.
 
 # In this project, the following technologies are used:
 
