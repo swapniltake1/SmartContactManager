@@ -52,7 +52,21 @@ These technologies enable you to build a robust and secure contact management ap
 
 ![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/0a5f6ccc-3f10-45f4-aa91-9426b4fcc34b)
 
-# API Created
+# Jar Created
+smartcontactmanager\target\smartcontactmanager-0.0.1-SNAPSHOT.jar
+
+![Annotation 2023-06-27 173843](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/63aa6c6b-a4c6-4139-b641-447249666917)
+
+# Running it directly on windows 
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/e390d93a-033a-4942-8f8b-409990cb9246)
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/55db10c2-be78-4d5a-a5e3-3b288a6f4af1)
+
+
+![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/fed72143-4965-4de8-a8b7-bf135cf78772)
+
+![Uploading image.png…]()
+
 
 
 
