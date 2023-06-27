@@ -65,7 +65,7 @@ smartcontactmanager\target\smartcontactmanager-0.0.1-SNAPSHOT.jar
 
 ![image](https://github.com/swapniltake1/smartcontactmanager/assets/61576958/fed72143-4965-4de8-a8b7-bf135cf78772)
 
-![Uploading image.png…]()
+
 
 
 
